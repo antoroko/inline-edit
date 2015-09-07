@@ -5,7 +5,7 @@ Enables text editing with a defined format. Checkout the [examples](http://githu
 for layout considerations.
 
 
-Bowser Support
+Browser Support
 --------------
 
 **IE** 6, 7, 8  
